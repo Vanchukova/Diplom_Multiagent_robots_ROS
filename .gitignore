@@ -16,3 +16,6 @@ install/
 
 # Временные файлы Office (открытые .docx/.pptx)
 ~$*
+
+# Python virtual environment
+.venv/

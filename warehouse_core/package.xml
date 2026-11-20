@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>warehouse_core</name>
+  <version>0.1.0</version>
+  <description>ROS-independent core of the warehouse robots: grid map, A* path planning, task assignment.</description>
+
+  <maintainer email="tanya@todo.todo">Tatiana Vanchukova</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>python3-yaml</exec_depend>
+  <test_depend>python3-pytest</test_depend>
+</package>
