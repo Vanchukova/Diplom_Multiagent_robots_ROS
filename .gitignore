@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Редакторы
+.vscode/
+.idea/
+
+# catkin (если рабочее пространство создано прямо в репозитории)
+build/
+devel/
+install/
+
+# Временные файлы Office (открытые .docx/.pptx)
+~$*
